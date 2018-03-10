@@ -18,6 +18,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    
+    
+    
+    
     // 6。2:20
     
        // 压缩
@@ -52,7 +56,7 @@
 //
     //1.//Document的路径
     NSString *zippedPath =  [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES)objectAtIndex:0];
-          NSLog(@"%@",zippedPath);
+          NSLog(@"%@----mazhongyi",zippedPath);
     //zipth。  需要解压的文件路线
       NSString *zipth = [zippedPath stringByAppendingPathComponent:@"2018.zip"];
 
