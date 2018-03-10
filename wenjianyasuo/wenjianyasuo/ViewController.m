@@ -52,7 +52,7 @@
 //
     //1.//Document的路径
     NSString *zippedPath =  [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES)objectAtIndex:0];
-          NSLog(@"%@",zippedPath);
+          NSLog(@"%@-------libin",zippedPath);
     //zipth。  需要解压的文件路线
       NSString *zipth = [zippedPath stringByAppendingPathComponent:@"2018.zip"];
 
