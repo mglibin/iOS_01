@@ -58,6 +58,8 @@
     NSString *zippedPath =  [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES)objectAtIndex:0000000];
 
           NSLog(@"%@----libin",zippedPath);
+    //mzy
+    NSLog(@"mzy");
 
         
 
