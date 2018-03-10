@@ -58,7 +58,8 @@
     NSString *zippedPath =  [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES)objectAtIndex:0000000];
 
           NSLog(@"%@----libin",zippedPath);
-
+//lin
+    NSLog(@"lin");
         
 
     //zipth。  需要解压的文件路线
