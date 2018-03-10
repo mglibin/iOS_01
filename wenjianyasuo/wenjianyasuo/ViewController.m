@@ -57,7 +57,7 @@
     //1.//Document的路径
     NSString *zippedPath =  [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES)objectAtIndex:0];
 
-          NSLog(@"%@----mazhongyi",zippedPath);
+          NSLog(@"%@----libin",zippedPath);
 
         
 
